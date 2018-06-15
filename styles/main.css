@@ -1,0 +1,278 @@
+
+*{
+	margin:0;
+	padding: 0;
+	
+}
+body{
+    font-family: 'Nunito', sans-serif;
+    
+}
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800');
+.primeravimg{
+    width: 1349px;
+    top:-50px;
+    height: 660px;
+    z-index: 1; 
+   
+}
+.logo{
+   top:-600px; 
+   left: 80px;
+   position: relative;
+   width: 80px;
+   height: 40px;
+}
+.primerav section:first{
+    width: 0px;
+    height: 0px;
+} 
+.primerav section h1{
+    width: 30px;
+    position: relative;
+    top: -665px;
+    font-size:13px;
+    font-weight: normal; 
+    color: #fff;
+    left: 1200px;
+}
+.text  p{
+    margin: auto;
+    left: 30px;
+    font-size: 45px;
+    position: relative;
+    color: #fff;
+    width: 1200px;
+    font-weight: normal; 
+    
+}
+.text{
+   
+    position: relative;
+    width: 1300px;
+    height: 100px;
+    top:-500px;
+    
+}
+.primerav nav{
+    width: 180px;
+    height: 60px;
+    background-color:#fff;
+    top:-430px; 
+    left: 80px;
+    position: relative;
+    border-radius:5%; 
+}
+.primerav nav h1,.primerav div h1{
+    top:20px;
+    font-size:15px; 
+    text-align: center;
+    position: relative;
+    font-weight: normal; 
+
+}
+.primerav nav h1{
+    color:  rgb(22, 146, 196);
+}
+.primerav div h1{
+    color:#fff;
+}
+.primerav div{
+    width: 180px;
+    height: 55px;
+    border: #fff solid 2px;
+    top:-490px; 
+    left: 280px;
+    position: relative;
+    border-radius:5%; 
+
+}
+.primerav nav:hover{
+    background-color: rgb(43, 172, 223);
+}
+.primerav nav:hover h1{
+    color:#fff;
+}
+.primerav div:hover h1{
+    color:rgb(43, 172, 223);
+}
+.primerav div:hover{
+    border: rgb(43, 172, 223) solid 2px;
+}
+.menu{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    top:-600px;
+    left:1160px ;
+}
+.sep {
+    position: relative;
+    top:140px;
+    left: 400px;
+    width:60px ;
+    height:50px ;
+}
+.sepa{
+    position: relative;
+    top:45px;
+    left: 545px;
+    width:60px ;
+    height:50px ;
+}
+h2{
+    font-weight: normal; 
+    position: relative;
+    top: 90px;
+    left:600px ;
+    color:rgb(33, 26, 63);
+    font-size: 25px;
+    width: 400px;
+
+
+}
+.segundav div img:nth-child(2){  
+  position: relative;
+  left:-380px;
+  top:150px;
+
+}
+.segundav div img:nth-child(1){
+    width: 660px;
+    height: 400px;
+    float: left;
+  
+}
+.segundav div:nth-child(2){
+    width: 689px;
+    top:-77px;
+    position: relative;
+    height: 400px;
+    background-color: rgba(71, 100, 138, 0.884);
+    float: left;
+}
+.segundav div:nth-child(2) h1{
+    text-align:justify;
+    font-size: 30px;
+    color:#fff;
+    font-weight: normal; 
+    top:50px;
+    left:100px;
+    position: relative;
+    width: 550px;
+
+}
+.segundav div p{
+    text-align:justify;
+    font-size: 15px;
+    line-height: 180%;
+    color:#fff;
+    font-weight: normal; 
+    top:80px;
+    left:100px;
+    position: relative;
+    width: 500px;
+}
+.segundav div h3{
+    text-align:justify;
+    font-size: 15px;
+    color:rgb(121, 186, 247);
+    font-weight: normal; 
+    top:100px;
+    left:100px;
+    position: relative;
+    width: 300px;
+}
+.segundav h2{
+    font-weight: normal; 
+    position: relative;
+    top: 0px;
+    left:600px ;
+    color:rgb(33, 26, 63);
+    font-size: 25px;
+    width: 400px;
+}
+.tercerav img{
+ float: left;
+ width: 80px;
+ height: 80px;
+}
+.tercerav div img{
+    left:50px ;
+    top: 60px;
+    position: relative;
+}
+.tercerav div h1,.tercerav nav h1,.tercerav section h1{
+    font-size:25px;
+    color:rgba(7, 6, 6, 0.61);
+    width: 200px;
+    text-align: justify;
+    position: relative;
+}
+.tercerav div h1{
+    top:-20px;
+    left: 150px;; 
+}
+.tercerav nav h1{
+    top:-180px;
+    left: 550px;
+}
+.tercerav section h1{
+    top:-420px;
+    left: 980px;
+}
+.tercerav div p{
+    top: 10px;
+    left: 150px;
+}
+.tercerav nav p{
+    top: -150px;
+    left: 550px;
+}
+.tercerav section p{
+    top: -400px;
+    left: 980px;
+}
+.tercerav div p,.tercerav nav p,.tercerav section p{
+    color:rgba(22, 4, 71, 0.616);
+    font-size: 15px;
+    text-align: justify;
+    width:230px;
+    line-height: 180%;
+    position: relative;
+}
+.tercerav div{
+    width: 400px;
+    float: left;
+}
+.tercerav nav img{
+    position: relative;
+    left: 60px;
+    top: 60px;
+}
+.tercerav section img{
+    position: relative;
+    left: 890px;
+    top: -340px;
+}
+.tercerav  h3{
+    color:rgba(7, 6, 6, 0.61);
+    font-size:16px;
+    position: relative;
+    width: 200px;
+}
+.tercerav h3:hover{
+    color:rgb(92, 156, 240);
+}
+.tercerav div h3{
+    top: 30px;
+    left: 150px;
+}
+.tercerav nav h3{
+    top: -125px;
+    left: 550px;
+}
+.tercerav section h3{
+    top: -370px;
+    left: 980px;
+}
